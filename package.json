@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/randomquote",
+  "version": "1.0.0",
+  "description": "Random Quote is a simple tool for getting random quotes. It returns a random quote from a collection of quotes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/randomquote-API.git"
+  },
+  "keywords": [
+    "random quotes"," random quote api"," random quote tool"," random quote software"," random quote service"," random quote library"," random quote sdk"," random quote code"," random quote script"," random quote program"," random quote application"," random quote app"," random quote utility"," random quote helper"," random quote helper tool"," random quote helper software"," random quote helper service"," random quote helper library"," random quote helper sdk"," random quote helper code"," random quote helper script"," random quote helper program"," random quote helper application"," random quote helper app"," random quote helper tool"," random quote helper utility"," random quote helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/randomquote-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/randomquote-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
