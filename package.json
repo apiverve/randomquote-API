@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/randomquote-API.git"
   },
   "keywords": [
-    "random quotes"," random quote api"," random quote tool"," random quote software"," random quote service"," random quote library"," random quote sdk"," random quote code"," random quote script"," random quote program"," random quote application"," random quote app"," random quote utility"," random quote helper"," random quote helper tool"," random quote helper software"," random quote helper service"," random quote helper library"," random quote helper sdk"," random quote helper code"," random quote helper script"," random quote helper program"," random quote helper application"," random quote helper app"," random quote helper tool"," random quote helper utility"," random quote helper"
+    "random quotes","random quote api","random quote tool","random quote software","random quote service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
