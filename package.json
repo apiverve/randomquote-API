@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/randomquote",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Random Quote is a simple tool for getting random quotes. It returns a random quote from a collection of quotes.",
   "main": "index.js",
   "scripts": {
