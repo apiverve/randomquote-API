@@ -69,9 +69,10 @@ api.execute(function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "quote": "Take things as they are. Punch when you have to punch. Kick when you have to kick.",
-    "author": "Bruce Lee"
-  }
+    "quote": "No garden is without its weeds.",
+    "author": "Thomas Fuller"
+  },
+  "code": 200
 }
 ```
 
