@@ -69,8 +69,8 @@ api.execute(function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "quote": "No garden is without its weeds.",
-    "author": "Thomas Fuller"
+    "quote": "We know from science that nothing in the universe exists as an isolated or independent entity.",
+    "author": "Margaret Wheatley"
   },
   "code": 200
 }
